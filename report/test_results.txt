@@ -1,0 +1,5 @@
+TC1 Normal employee|age=30, exp=5, edu=Masters, level=Mid, hrs=40|996,300
+TC2 Low experience|age=22, exp=0, edu=Bachelors, level=Junior, hrs=40|261,146
+TC3 High experience|age=50, exp=25, edu=Masters, level=Senior, hrs=45|2,560,662
+TC4 Higher job level|age=30, exp=5, edu=Masters, level=Manager, hrs=40|1,640,358
+TC5 Different education (PhD)|age=30, exp=5, edu=PhD, level=Mid, hrs=40|1,103,917

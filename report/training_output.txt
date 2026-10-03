@@ -1,0 +1,7 @@
+Rows: 600 | Missing values: 0
+Train size: 480 | Test size: 120
+MAE : 47,097.10
+MSE : 3,690,312,169.22
+RMSE: 60,747.94
+R2  : 0.9870
+Model saved to model/salary_model.pkl
